@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{284F188C-6717-4CBC-440C-3D337642D1BC}") = "Trulit", "Assembly-CSharp-firstpass.csproj", "{5A7AF092-FB54-86FF-CFA1-D9D0A0499284}"
+EndProject
+Project("{284F188C-6717-4CBC-440C-3D337642D1BC}") = "Trulit", "Assembly-CSharp.csproj", "{D78A9B86-0F30-F498-2B94-59CB6A0CC1F0}"
+EndProject
+Project("{284F188C-6717-4CBC-440C-3D337642D1BC}") = "Trulit", "Assembly-CSharp-Editor.csproj", "{6CD5B355-16D7-18FA-0092-C11F295EDB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A7AF092-FB54-86FF-CFA1-D9D0A0499284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7AF092-FB54-86FF-CFA1-D9D0A0499284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7AF092-FB54-86FF-CFA1-D9D0A0499284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7AF092-FB54-86FF-CFA1-D9D0A0499284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78A9B86-0F30-F498-2B94-59CB6A0CC1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78A9B86-0F30-F498-2B94-59CB6A0CC1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78A9B86-0F30-F498-2B94-59CB6A0CC1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78A9B86-0F30-F498-2B94-59CB6A0CC1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD5B355-16D7-18FA-0092-C11F295EDB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD5B355-16D7-18FA-0092-C11F295EDB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD5B355-16D7-18FA-0092-C11F295EDB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD5B355-16D7-18FA-0092-C11F295EDB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
